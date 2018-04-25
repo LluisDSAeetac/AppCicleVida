@@ -1,0 +1,8 @@
+<application>
+  <component name="PrintSettings">
+    <option name="includeSubdirectories" value="true" />
+    <option name="printScope" value="4" />
+    <option name="FONT_SIZE" value="10" />
+    <option name="EVEN_NUMBER_OF_PAGES" value="true" />
+  </component>
+</application>
