@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(tag, "Event a onCreate()");
     }
 
-
+   // completeu la resta de mètodes (onStart, onResume, ...) afegint logs ( Log.d( ... )  )
+    
 }
